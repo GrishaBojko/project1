@@ -1,5 +1,6 @@
 
 *{
+    font-family: 'Nunito', sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -173,6 +174,7 @@ input{
 .header__main_title{
     font-size: 101px;
     margin-left: -5vw;
+    font-family: 'Poppins', sans-serif;
 }
 .header__main_sub_title{
     font-size: 17px;
@@ -617,8 +619,8 @@ input{
 .news__sidebar_date{
     font-size: 1em;
     color: #77777e;
-    position: absolute;
-    bottom: 0;
+    margin-top: 5vw;
+
 }
 
 footer{
@@ -1263,8 +1265,7 @@ footer{
     .news__sidebar_date{
         font-size: 1.2em;
         color: #77777e;
-        position: absolute;
-        bottom: 0;
+       
     }
     
     footer{
@@ -1926,8 +1927,7 @@ footer{
     .news__sidebar_date{
         font-size: 1.3em;
         color: #77777e;
-        position: absolute;
-        bottom: 0;
+        
     }
     
     footer{
@@ -2408,7 +2408,7 @@ footer{
         height: 25vw;
     }
     .news__heading_text{
-        font-size: 1.6em;
+        font-size: 1.3em;
         text-align: left;
     }
     .news__heading_box_date{
@@ -2517,7 +2517,7 @@ footer{
     }
     .footering_container_text-1{
         width: 25vw;
-        font-size: 1.4em;
+        font-size: 1.2em;
         margin-top: 1vw;
         box-sizing: border-box;
         padding-left: 5vw;
@@ -2586,8 +2586,7 @@ footer{
     .news__sidebar_date{
         font-size: 1.2em;
         color: #77777e;
-        position: absolute;
-        bottom: 0;
+       
     }
     
     footer{
@@ -2848,8 +2847,9 @@ footer{
     }
     
     .header__main_title{
-        font-size: 80px;
-        margin-left: 0;
+        font-size: 70px;
+
+        margin-left: 5vw;
         color: white;
     }
     .header__main_sub_title{
@@ -2857,6 +2857,7 @@ footer{
         font-weight: 400;
         line-height: 30px;
         color: white;
+        margin-left: 5vw;
         
     }
     
@@ -3050,6 +3051,7 @@ footer{
     }
     .news{ 
         margin-top: 15vw;
+        
     }
     
     .news__title{
@@ -3074,6 +3076,7 @@ footer{
         display: flex;
         justify-content: center;
         height: 350vw;
+        
         flex-direction: column;
         align-items: center;
     
@@ -3112,7 +3115,9 @@ footer{
     }
     
     .news__content{
-        height: 900vw;
+        height: 800vw;
+        margin-top: -50vw;
+        
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -3194,7 +3199,7 @@ footer{
     }
     .footering_container{  
         height: 400vw;
-        margin-top: 5vw;
+        
         flex-direction: column;
         display: flex;
         align-items: center;
@@ -3205,7 +3210,6 @@ footer{
         position: relative;
         width:90vw;
         height: 200vw;
-        
         display: flex;
         align-items: center;
         justify-content: space-around;
@@ -3231,8 +3235,9 @@ footer{
         font-size: 1.2em;
         color: #77777e;
         position: absolute;
+        margin: 0;
+        padding: 0;
         bottom: 0;
-        
     }
     
     .footering_sub_container-2{
@@ -3270,9 +3275,11 @@ footer{
     .news__sidebar{
         
         width: 90vw;
+        margin-top: 80vw;
         height: 200vw;
         position: relative;
         margin-left: 2.5vw;
+        text-align: center;
     }
     
     .news__sidebar_img{
@@ -3288,8 +3295,9 @@ footer{
     .news__sidebar_date{
         font-size: 1.2em;
         color: #77777e;
-        position: absolute;
-        bottom: 0;
+        
+       
+        text-align: center;
     }
     
     footer{
@@ -3297,14 +3305,14 @@ footer{
         justify-content: space-around;
         display: flex;
         align-items: center;
-        height: 30vh;
+     
         flex-direction: column;
     }
     
     .footer__heading{
         display: flex;
         justify-content: space-between;
-        height: 20vh;
+        height: 50vw;
         width: 90vw;
         align-items: center;
         border-bottom: 0.07em solid gray;
@@ -3317,7 +3325,7 @@ footer{
     
     .footer__singup{
         width: 30vw;
-        height: 7.5vh;
+        height: 20vw;
         display: flex;
         justify-content: space-between;
         align-items: center;
@@ -3325,14 +3333,14 @@ footer{
     }
     
     .envelope{
-        font-size: 1.8em;
+        font-size: 1.5em;
         color: black;
     }
     
     .footer__link{
         text-decoration: none;
         color: black;
-        font-size: 1em;
+        font-size: 0.8em;
         margin-left: 5vw;
     }
     
@@ -3341,23 +3349,28 @@ footer{
         justify-content: space-between;
         width: 90vw;
         height: 20vh;
-        
+        flex-direction: column-reverse;
         align-items: center;
     }
     .footer__copy{
-        font-size: 1em;
+        width: 90vw;
+        font-size: 1.2em;
         color: #77777e;
+        margin-top: 10vw;
+        text-align: center;
     }
     
     .footer__list{
         list-style: none;
         display: flex;
-        width: 20vw;
+        width: 80vw;
+        
         justify-content: space-around;
+      
     
         i{
             color: black;
-            font-size: 1.2em;
+            font-size: 2.5em;
         }
     
     }

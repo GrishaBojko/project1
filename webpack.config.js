@@ -111,22 +111,22 @@ module.exports = {
     new HtmlWebpackPlugin({
       filename:'client.html',
       title: 'My Beets App',
-      template: './src/about.html'
+      template: './src/client.html'
     }),
     new HtmlWebpackPlugin({
       filename:'contact.html',
       title: 'My Beets App',
-      template: './src/about.html'
+      template: './src/contact.html'
     }),
     new HtmlWebpackPlugin({
       filename:'news.html',
       title: 'My Beets App',
-      template: './src/about.html'
+      template: './src/news.html'
     }),
     new HtmlWebpackPlugin({
       filename:'profile.html',
       title: 'My Beets App',
-      template: './src/about.html'
+      template: './src/profile.html'
     }),
     new webpack.ProvidePlugin({
       '$': 'jquery'
