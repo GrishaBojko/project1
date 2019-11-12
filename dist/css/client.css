@@ -161,7 +161,7 @@ input {
   color: white; }
 
 .header__main_container {
-  background: url(../images/b4e92a4d425e8fc451031bc1343cf6e9-Slice_2.png);
+  background: url(./images/b4e92a4d425e8fc451031bc1343cf6e9-Slice_2.png);
   width: 58vw;
   background-size: cover;
   background-repeat: no-repeat;
@@ -323,35 +323,35 @@ input {
   opacity: 1; }
 
 .gallery__img_box-1 {
-  background: url(../images/9ce4c678d1ac977b5a168f290c962157-Slice_3.png);
+  background: url(./images/9ce4c678d1ac977b5a168f290c962157-Slice_3.png);
   background-size: cover; }
 
 .gallery__img_box-2 {
-  background: url(../images/de385e7ae078bf692296eb9f4969a809-Slice_4.png);
+  background: url(./images/de385e7ae078bf692296eb9f4969a809-Slice_4.png);
   background-size: cover; }
 
 .gallery__img_box-3 {
-  background: url(../images/12cb22d90a637fdb86f5bdfedb4f58e3-Slice_5.png);
+  background: url(./images/12cb22d90a637fdb86f5bdfedb4f58e3-Slice_5.png);
   background-size: cover; }
 
 .gallery__img_box-4 {
-  background: url(../images/2fa74b932bf92b615ea8cd03d3bbbd2a-Slice_6.png);
+  background: url(./images/2fa74b932bf92b615ea8cd03d3bbbd2a-Slice_6.png);
   background-size: cover; }
 
 .gallery__img_box-5 {
-  background: url(../images/cb195a9a4723e76751f4c9155ad2446e-Slice_7.png);
+  background: url(./images/cb195a9a4723e76751f4c9155ad2446e-Slice_7.png);
   background-size: cover; }
 
 .gallery__img_box-6 {
-  background: url(../images/ebd4a3812a26b7fa13aa9d9579abfe43-Slice_8.png);
+  background: url(./images/ebd4a3812a26b7fa13aa9d9579abfe43-Slice_8.png);
   background-size: cover; }
 
 .gallery__img_box-7 {
-  background: url(../images/3fe14af4f9136ed708e3fa6e3f7ec466-Slice_9.png);
+  background: url(./images/3fe14af4f9136ed708e3fa6e3f7ec466-Slice_9.png);
   background-size: cover; }
 
 .gallery__img_box-8 {
-  background: url(../images/de385e7ae078bf692296eb9f4969a809-Slice_4-2.png);
+  background: url(./images/de385e7ae078bf692296eb9f4969a809-Slice_4-2.png);
   background-size: cover; }
 
 .img_box__bnt {
@@ -547,7 +547,7 @@ input {
 .heading_sub_container-2 {
   width: 40vw;
   height: 25vw;
-  background: url(../images/a27dbca9e7ef8ad4006554101bc1abdf-Slice_10.png);
+  background: url(./images/a27dbca9e7ef8ad4006554101bc1abdf-Slice_10.png);
   background-size: cover;
   display: -webkit-box;
   display: flex;
@@ -599,7 +599,7 @@ input {
 .footering_sub_container-2 {
   width: 35vw;
   height: 25vw;
-  background: url(../images/b4e92a4d425e8fc451031bc1343cf6e9-Slice_2-2.png);
+  background: url(./images/b4e92a4d425e8fc451031bc1343cf6e9-Slice_2-2.png);
   background-size: cover;
   display: -webkit-box;
   display: flex;
